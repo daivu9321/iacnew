@@ -1,0 +1,1 @@
+// file biến truyền vào của main "Biến của chương trình"
